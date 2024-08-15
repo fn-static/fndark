@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Aug 2024 19:52:42 at https://www.nightfn.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nightfn.com/ -O1 "E:\ezezezez" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:53:04	Error: 	"Not Found" (404) at link https://www.nightfn.com/index-2.html (from https://www.nightfn.com/)
+19:53:08	Error: 	"Not Found" (404) at link https://www.nightfn.com/window.location.html (from https://www.nightfn.com/)
+19:53:08	Error: 	"Not Found" (404) at link https://www.nightfn.com/app.betimes.pl/countdown/9172203390401277/loader308d308d308d.html?email= (from https://www.nightfn.com/)
+19:53:08	Error: 	"Not Found" (404) at link https://www.nightfn.com/index-3.html (from https://www.nightfn.com/css/bootstrap.min.css)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/tlo.html (from https://www.nightfn.com/css/style.css)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/team-shape.html (from https://www.nightfn.com/css/style.css)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/footer-bg.html (from https://www.nightfn.com/css/style.css)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/bootstrap/js/bootstrap.bundle.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/aos/aos.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/php-email-form/validate.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/swiper/swiper-bundle.min.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://nightfn.com/assets/vendor/purecounter/purecounter.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/isotope-layout/isotope.pkgd.min.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/vendor/glightbox/js/glightbox.min.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://www.nightfn.com/assets/js/main.js (from https://www.nightfn.com/TOS.html)
+19:53:11	Error: 	"Not Found" (404) at link https://nightfn.com/assets/img/testimonials/main.png (from https://www.nightfn.com/feedback.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 59 links scanned, 42 files written (7680153 bytes overall) [5637213 bytes received at 194386 bytes/sec], 2850057 bytes transferred using HTTP compression in 40 files, ratio 26%, 14.7 requests per connection
+(16 errors, 0 warnings, 0 messages)
